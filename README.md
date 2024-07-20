@@ -1,5 +1,4 @@
 # Personalised Travel Recommender & Planner
-### Visit the currently deployed version [here](https://travel-itinerary-generator.streamlit.app/).
 
 ## Aim
 
